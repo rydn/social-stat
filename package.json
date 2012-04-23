@@ -1,0 +1,13 @@
+{
+  "author": "Ryan Dick <noxinoobin@gmail.com>",
+  "name": "socialstat",
+  "description": "social endorsement tracker",
+  "version": "0.0.1",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
